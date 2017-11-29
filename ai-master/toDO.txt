@@ -1,0 +1,3 @@
+1. List the AI tools like ( word or dictionary errors, email suggestion, spam filter, face detector, 
+2. Brainstrom an idea and
+3. Do a sample projects based on any one applications above

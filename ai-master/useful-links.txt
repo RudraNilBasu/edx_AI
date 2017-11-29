@@ -1,0 +1,31 @@
+
+//Edx course related tags
+
+To verify your samples please find here
+https://courses.edx.org/courses/course-v1:ColumbiaX+CSMM.101x+1T2017/discussion/forum/course/threads/5889cea97f6e4407f5002063
+
+
+to know the graphical flow just check this site
+http://algo-visualizer.jasonpark.me/#path=graph_search/bfs/tree
+
+
+//todo
+https://www.quora.com/Machine-Learning/How-do-I-learn-machine-learning-1
+
+friends 
+https://github.com/dpalmasan
+https://github.com/dpalmasan/artificial_intelligence_columbia_edx
+
+// 2048
+http://puzzling.stackexchange.com/questions/48/what-is-the-largest-tile-possible-in-2048
+
+forum discussion 
+https://courses.edx.org/courses/course-v1:ColumbiaX+CSMM.101x+1T2017/discussion/forum/af0c305c9fde4272114217885078da3b4289f091/threads/58a76cab9be41d09250008b3
+
+
+//Troubleshooting
+installing numpy on windows by using this command
+  pip install numpy
+installing matplotlib
+  pip install matplotlib
+http://stackoverflow.com/questions/31967617/no-module-named-numpy-windows-7-python-3-4-3-numpy-1-9-2

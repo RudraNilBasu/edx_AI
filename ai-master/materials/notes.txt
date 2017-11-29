@@ -1,0 +1,3 @@
+http://www.hh.se/download/18.70cf2e49129168da0158000143591/aima
+https://jackcanty.com/solving-8-puzzle-with-artificial-intelligence.html
+https://blogs.scientificamerican.com/cross-check/bayes-s-theorem-what-s-the-big-deal/

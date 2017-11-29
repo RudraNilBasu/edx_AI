@@ -1,0 +1,17 @@
+driver.py bfs 6,1,8,4,0,2,7,3,5
+
+('path_to_goal: ', ['Down', 'Right', 'Up', 'Up', 'Left', 'Down', 'Right', 'Down', 'Left', 'Up', 'Left', 'Up', 'Right', 'Right', 'Down', 'Down', 'Left', 'Left', 'Up', 'Up'])
+('cost_of_path: ', 20)
+('nodes_expanded: ', 54094)
+('fringe_size: ', 22879)
+('max_fringe_size: ', 22886)
+('search_depth: ', 20)
+('max_search_depth: ', 21)
+('running_time: ', 2289.3509998321533)
+('max_ram_usage: ', 0)
+
+
+
+
+
+
